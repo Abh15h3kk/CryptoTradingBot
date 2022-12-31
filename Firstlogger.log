@@ -1,0 +1,398 @@
+2022-12-30 04:49:51,723 INFO :: this is logged in all cases
+2022-12-30 04:49:52,966 INFO :: Binance Futures Client successfully initialized
+2022-12-30 04:49:54,246 INFO :: Binance connection opened
+2022-12-30 04:49:54,246 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x000001DD1A8D7160>>: 'str' object has no attribute 'symbol'
+2022-12-30 04:49:54,246 ERROR :: Binance connection error: 'str' object has no attribute 'symbol'
+2022-12-30 04:49:54,246 WARNING :: websocket connected
+2022-12-30 04:55:40,771 INFO :: this is logged in all cases
+2022-12-30 04:55:41,938 INFO :: Binance Futures Client successfully initialized
+2022-12-30 04:55:42,623 INFO :: Binance connection opened
+2022-12-30 04:55:42,624 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x000001C197DAC9D0>>: 'str' object has no attribute 'symbol'
+2022-12-30 04:55:42,624 ERROR :: Binance connection error: 'str' object has no attribute 'symbol'
+2022-12-30 04:55:42,624 WARNING :: websocket connected
+2022-12-30 04:58:48,228 INFO :: this is logged in all cases
+2022-12-30 04:58:49,127 INFO :: Binance Futures Client successfully initialized
+2022-12-30 04:58:49,820 INFO :: Binance connection opened
+2022-12-30 04:58:49,820 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000152CD7B0820>>: 'str' object has no attribute 'symbol'
+2022-12-30 04:58:49,820 ERROR :: Binance connection error: 'str' object has no attribute 'symbol'
+2022-12-30 04:58:49,821 WARNING :: websocket connected
+2022-12-30 05:00:17,127 INFO :: this is logged in all cases
+2022-12-30 05:00:18,398 INFO :: Binance Futures Client successfully initialized
+2022-12-30 05:00:19,099 INFO :: Binance connection opened
+2022-12-30 05:00:19,099 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x000002AC885AC9D0>>: BinanceFuturesClient.subscribe_channel() missing 1 required positional argument: 'contract'
+2022-12-30 05:00:19,100 ERROR :: Binance connection error: BinanceFuturesClient.subscribe_channel() missing 1 required positional argument: 'contract'
+2022-12-30 05:00:19,100 WARNING :: websocket connected
+2022-12-30 15:14:04,627 INFO :: this is logged in all cases
+2022-12-30 15:14:05,273 INFO :: Binance Futures Client successfully initialized
+2022-12-30 15:14:06,328 INFO :: Binance connection opened
+2022-12-30 15:14:06,329 WARNING :: websocket connected
+2022-12-30 15:14:06,505 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x0000021B21DACAC0>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:14:06,506 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:14:09,190 INFO :: Binance connection opened
+2022-12-30 15:14:09,191 WARNING :: websocket connected
+2022-12-30 15:14:09,353 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x0000021B21DACAC0>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:14:09,353 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:14:12,033 INFO :: Binance connection opened
+2022-12-30 15:14:12,034 WARNING :: websocket connected
+2022-12-30 15:14:12,194 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x0000021B21DACAC0>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:14:12,194 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:14:14,867 INFO :: Binance connection opened
+2022-12-30 15:14:14,867 WARNING :: websocket connected
+2022-12-30 15:14:15,027 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x0000021B21DACAC0>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:14:15,027 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:14:17,697 INFO :: Binance connection opened
+2022-12-30 15:14:17,698 WARNING :: websocket connected
+2022-12-30 15:14:17,857 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x0000021B21DACAC0>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:14:17,857 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:15:52,699 INFO :: this is logged in all cases
+2022-12-30 15:15:53,786 INFO :: Binance Futures Client successfully initialized
+2022-12-30 15:15:54,618 INFO :: Binance connection opened
+2022-12-30 15:15:54,618 WARNING :: websocket connected
+2022-12-30 15:15:54,806 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:15:54,806 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:15:57,540 INFO :: Binance connection opened
+2022-12-30 15:15:57,541 WARNING :: websocket connected
+2022-12-30 15:15:57,700 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:15:57,700 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:00,432 INFO :: Binance connection opened
+2022-12-30 15:16:00,433 WARNING :: websocket connected
+2022-12-30 15:16:00,605 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:00,606 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:03,298 INFO :: Binance connection opened
+2022-12-30 15:16:03,299 WARNING :: websocket connected
+2022-12-30 15:16:03,463 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:03,463 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:06,135 INFO :: Binance connection opened
+2022-12-30 15:16:06,136 WARNING :: websocket connected
+2022-12-30 15:16:06,296 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:06,296 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:08,961 INFO :: Binance connection opened
+2022-12-30 15:16:08,961 WARNING :: websocket connected
+2022-12-30 15:16:09,119 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:09,119 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:11,830 INFO :: Binance connection opened
+2022-12-30 15:16:11,831 WARNING :: websocket connected
+2022-12-30 15:16:11,995 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:11,995 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:14,694 INFO :: Binance connection opened
+2022-12-30 15:16:14,695 WARNING :: websocket connected
+2022-12-30 15:16:14,861 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:14,861 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:17,568 INFO :: Binance connection opened
+2022-12-30 15:16:17,569 WARNING :: websocket connected
+2022-12-30 15:16:17,738 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:17,738 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:20,427 INFO :: Binance connection opened
+2022-12-30 15:16:20,427 WARNING :: websocket connected
+2022-12-30 15:16:21,971 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:21,971 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:24,641 INFO :: Binance connection opened
+2022-12-30 15:16:24,642 WARNING :: websocket connected
+2022-12-30 15:16:24,804 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:24,804 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:27,490 INFO :: Binance connection opened
+2022-12-30 15:16:27,490 WARNING :: websocket connected
+2022-12-30 15:16:27,652 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:27,652 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:30,351 INFO :: Binance connection opened
+2022-12-30 15:16:30,352 WARNING :: websocket connected
+2022-12-30 15:16:30,518 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:30,518 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:33,218 INFO :: Binance connection opened
+2022-12-30 15:16:33,219 WARNING :: websocket connected
+2022-12-30 15:16:33,384 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:33,384 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:36,054 INFO :: Binance connection opened
+2022-12-30 15:16:36,055 WARNING :: websocket connected
+2022-12-30 15:16:36,213 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:36,214 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:38,894 INFO :: Binance connection opened
+2022-12-30 15:16:38,895 WARNING :: websocket connected
+2022-12-30 15:16:39,057 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:39,057 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:41,771 INFO :: Binance connection opened
+2022-12-30 15:16:41,772 WARNING :: websocket connected
+2022-12-30 15:16:41,940 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:41,940 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:44,623 INFO :: Binance connection opened
+2022-12-30 15:16:44,624 WARNING :: websocket connected
+2022-12-30 15:16:44,782 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000274C4DB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:44,782 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:46,357 INFO :: this is logged in all cases
+2022-12-30 15:16:46,800 INFO :: Binance Futures Client successfully initialized
+2022-12-30 15:16:47,503 INFO :: Binance connection opened
+2022-12-30 15:16:47,504 WARNING :: websocket connected
+2022-12-30 15:16:47,665 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x000001DED6BB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:47,665 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:50,360 INFO :: Binance connection opened
+2022-12-30 15:16:50,361 WARNING :: websocket connected
+2022-12-30 15:16:50,526 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x000001DED6BB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:50,526 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:53,229 INFO :: Binance connection opened
+2022-12-30 15:16:53,230 WARNING :: websocket connected
+2022-12-30 15:16:53,395 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x000001DED6BB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:53,395 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:56,108 INFO :: Binance connection opened
+2022-12-30 15:16:56,109 WARNING :: websocket connected
+2022-12-30 15:16:56,272 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x000001DED6BB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:56,273 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:58,949 INFO :: Binance connection opened
+2022-12-30 15:16:58,950 WARNING :: websocket connected
+2022-12-30 15:16:59,111 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x000001DED6BB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:16:59,111 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:17:01,790 INFO :: Binance connection opened
+2022-12-30 15:17:01,791 WARNING :: websocket connected
+2022-12-30 15:17:01,952 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x000001DED6BB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:17:01,952 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:17:05,187 INFO :: Binance connection opened
+2022-12-30 15:17:05,188 WARNING :: websocket connected
+2022-12-30 15:17:05,355 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x000001DED6BB0910>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-30 15:17:05,355 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-31 00:59:17,860 INFO :: this is logged in all cases
+2022-12-31 00:59:19,122 INFO :: Binance Futures Client successfully initialized
+2022-12-31 01:00:48,770 INFO :: this is logged in all cases
+2022-12-31 01:00:49,353 INFO :: Binance Futures Client successfully initialized
+2022-12-31 01:02:01,436 INFO :: this is logged in all cases
+2022-12-31 01:02:02,589 INFO :: Binance Futures Client successfully initialized
+2022-12-31 01:02:03,327 INFO :: Binance connection opened
+2022-12-31 01:02:03,328 WARNING :: websocket connected
+2022-12-31 01:02:03,494 WARNING :: Binance Websocket connection closed
+2022-12-31 01:02:06,242 INFO :: Binance connection opened
+2022-12-31 01:02:06,242 WARNING :: websocket connected
+2022-12-31 01:02:06,418 WARNING :: Binance Websocket connection closed
+2022-12-31 01:02:09,140 INFO :: Binance connection opened
+2022-12-31 01:02:09,141 WARNING :: websocket connected
+2022-12-31 01:02:09,312 WARNING :: Binance Websocket connection closed
+2022-12-31 01:02:13,511 INFO :: this is logged in all cases
+2022-12-31 01:02:14,607 INFO :: Binance Futures Client successfully initialized
+2022-12-31 01:02:15,307 INFO :: Binance connection opened
+2022-12-31 01:02:15,308 WARNING :: websocket connected
+2022-12-31 01:02:15,476 WARNING :: Binance Websocket connection closed
+2022-12-31 01:02:18,234 INFO :: Binance connection opened
+2022-12-31 01:02:18,234 WARNING :: websocket connected
+2022-12-31 01:02:18,410 WARNING :: Binance Websocket connection closed
+2022-12-31 01:06:39,620 INFO :: this is logged in all cases
+2022-12-31 01:06:40,700 INFO :: Binance Futures Client successfully initialized
+2022-12-31 01:06:41,463 INFO :: Binance connection opened
+2022-12-31 01:06:41,464 WARNING :: websocket connected
+2022-12-31 01:06:41,640 WARNING :: Binance Websocket connection closed
+2022-12-31 01:06:44,378 INFO :: Binance connection opened
+2022-12-31 01:06:44,378 WARNING :: websocket connected
+2022-12-31 01:06:44,551 WARNING :: Binance Websocket connection closed
+2022-12-31 01:06:47,261 INFO :: Binance connection opened
+2022-12-31 01:06:47,261 WARNING :: websocket connected
+2022-12-31 01:06:47,431 WARNING :: Binance Websocket connection closed
+2022-12-31 01:08:49,312 INFO :: this is logged in all cases
+2022-12-31 01:08:49,903 INFO :: Binance Futures Client successfully initialized
+2022-12-31 01:08:50,653 INFO :: Binance connection opened
+2022-12-31 01:08:50,654 WARNING :: websocket connected
+2022-12-31 01:08:50,829 WARNING :: Binance Websocket connection closed
+2022-12-31 01:08:53,532 INFO :: Binance connection opened
+2022-12-31 01:08:53,533 WARNING :: websocket connected
+2022-12-31 01:08:53,699 WARNING :: Binance Websocket connection closed
+2022-12-31 01:09:06,741 INFO :: this is logged in all cases
+2022-12-31 01:09:07,838 INFO :: Binance Futures Client successfully initialized
+2022-12-31 01:09:08,615 INFO :: Binance connection opened
+2022-12-31 01:09:08,615 WARNING :: websocket connected
+2022-12-31 01:09:08,786 WARNING :: Binance Websocket connection closed
+2022-12-31 01:09:11,507 INFO :: Binance connection opened
+2022-12-31 01:09:11,507 WARNING :: websocket connected
+2022-12-31 01:09:11,677 WARNING :: Binance Websocket connection closed
+2022-12-31 01:09:14,391 INFO :: Binance connection opened
+2022-12-31 01:09:14,392 WARNING :: websocket connected
+2022-12-31 01:09:14,562 WARNING :: Binance Websocket connection closed
+2022-12-31 01:13:33,902 INFO :: this is logged in all cases
+2022-12-31 01:13:34,411 INFO :: Binance Futures Client successfully initialized
+2022-12-31 01:13:35,126 INFO :: Binance connection opened
+2022-12-31 01:13:35,128 WARNING :: websocket connected
+2022-12-31 01:13:35,293 WARNING :: Binance Websocket connection closed
+2022-12-31 01:13:38,004 INFO :: Binance connection opened
+2022-12-31 01:13:38,004 WARNING :: websocket connected
+2022-12-31 01:13:38,173 WARNING :: Binance Websocket connection closed
+2022-12-31 01:13:40,927 INFO :: Binance connection opened
+2022-12-31 01:13:40,928 WARNING :: websocket connected
+2022-12-31 01:13:41,108 WARNING :: Binance Websocket connection closed
+2022-12-31 01:13:43,832 INFO :: Binance connection opened
+2022-12-31 01:13:43,833 WARNING :: websocket connected
+2022-12-31 01:13:44,006 WARNING :: Binance Websocket connection closed
+2022-12-31 01:13:46,737 INFO :: Binance connection opened
+2022-12-31 01:13:46,738 WARNING :: websocket connected
+2022-12-31 02:15:32,627 INFO :: this is logged in all cases
+2022-12-31 02:15:33,519 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:15:34,081 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1117, 'msg': 'Invalid side.'} (error code 400)
+2022-12-31 02:15:34,241 INFO :: Binance connection opened
+2022-12-31 02:15:34,242 WARNING :: websocket connected
+2022-12-31 02:15:34,409 WARNING :: Binance Websocket connection closed
+2022-12-31 02:15:37,132 INFO :: Binance connection opened
+2022-12-31 02:15:37,133 WARNING :: websocket connected
+2022-12-31 02:15:37,304 WARNING :: Binance Websocket connection closed
+2022-12-31 02:15:40,032 INFO :: Binance connection opened
+2022-12-31 02:15:40,033 WARNING :: websocket connected
+2022-12-31 02:15:40,207 WARNING :: Binance Websocket connection closed
+2022-12-31 02:16:13,021 INFO :: this is logged in all cases
+2022-12-31 02:16:14,093 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:16:14,647 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1117, 'msg': 'Invalid side.'} (error code 400)
+2022-12-31 02:17:09,108 INFO :: this is logged in all cases
+2022-12-31 02:17:09,961 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:17:10,458 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1117, 'msg': 'Invalid side.'} (error code 400)
+2022-12-31 02:19:05,071 INFO :: this is logged in all cases
+2022-12-31 02:19:05,883 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:19:06,122 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1117, 'msg': 'Invalid side.'} (error code 400)
+2022-12-31 02:19:54,009 INFO :: this is logged in all cases
+2022-12-31 02:19:55,057 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:19:55,547 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1117, 'msg': 'Invalid side.'} (error code 400)
+2022-12-31 02:21:36,460 INFO :: this is logged in all cases
+2022-12-31 02:21:37,397 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:21:37,916 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -4016, 'msg': "Limit price can't be higher than 17359.0"} (error code 400)
+2022-12-31 02:21:40,530 INFO :: this is logged in all cases
+2022-12-31 02:21:41,270 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:21:41,830 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -4016, 'msg': "Limit price can't be higher than 17362.7"} (error code 400)
+2022-12-31 02:22:22,469 INFO :: this is logged in all cases
+2022-12-31 02:22:23,576 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:24:09,315 INFO :: this is logged in all cases
+2022-12-31 02:24:10,155 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:24:10,374 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -4016, 'msg': "Limit price can't be higher than 17368.5"} (error code 400)
+2022-12-31 02:25:05,255 INFO :: this is logged in all cases
+2022-12-31 02:25:06,349 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:25:06,835 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -4016, 'msg': "Limit price can't be higher than 17367.6"} (error code 400)
+2022-12-31 02:26:23,273 INFO :: this is logged in all cases
+2022-12-31 02:26:24,534 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:26:25,048 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -4016, 'msg': "Limit price can't be higher than 17364.8"} (error code 400)
+2022-12-31 02:26:44,442 INFO :: this is logged in all cases
+2022-12-31 02:26:45,194 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:26:45,481 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -2027, 'msg': 'Exceeded the maximum allowable position at current leverage.'} (error code 400)
+2022-12-31 02:27:03,458 INFO :: this is logged in all cases
+2022-12-31 02:27:04,255 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:29:36,289 INFO :: this is logged in all cases
+2022-12-31 02:29:37,117 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:35:08,727 INFO :: this is logged in all cases
+2022-12-31 02:35:09,874 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:35:22,683 INFO :: this is logged in all cases
+2022-12-31 02:35:23,689 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:35:59,521 INFO :: this is logged in all cases
+2022-12-31 02:36:00,326 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:46:35,771 INFO :: this is logged in all cases
+2022-12-31 02:46:36,863 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:46:37,647 INFO :: Binance connection opened
+2022-12-31 02:46:37,648 WARNING :: websocket connected
+2022-12-31 02:46:37,820 WARNING :: Binance Websocket connection closed
+2022-12-31 02:46:40,522 INFO :: Binance connection opened
+2022-12-31 02:46:40,523 WARNING :: websocket connected
+2022-12-31 02:46:40,692 WARNING :: Binance Websocket connection closed
+2022-12-31 02:46:43,397 INFO :: Binance connection opened
+2022-12-31 02:46:43,398 WARNING :: websocket connected
+2022-12-31 02:46:43,566 WARNING :: Binance Websocket connection closed
+2022-12-31 02:46:46,305 INFO :: Binance connection opened
+2022-12-31 02:46:46,305 WARNING :: websocket connected
+2022-12-31 02:46:46,480 WARNING :: Binance Websocket connection closed
+2022-12-31 02:46:49,193 INFO :: Binance connection opened
+2022-12-31 02:46:49,193 WARNING :: websocket connected
+2022-12-31 02:46:49,362 WARNING :: Binance Websocket connection closed
+2022-12-31 02:46:52,091 INFO :: Binance connection opened
+2022-12-31 02:46:52,092 WARNING :: websocket connected
+2022-12-31 02:46:52,263 WARNING :: Binance Websocket connection closed
+2022-12-31 02:46:55,124 INFO :: Binance connection opened
+2022-12-31 02:46:55,125 WARNING :: websocket connected
+2022-12-31 02:46:55,289 WARNING :: Binance Websocket connection closed
+2022-12-31 02:46:57,991 INFO :: Binance connection opened
+2022-12-31 02:46:57,991 WARNING :: websocket connected
+2022-12-31 02:46:58,155 WARNING :: Binance Websocket connection closed
+2022-12-31 02:47:00,863 INFO :: Binance connection opened
+2022-12-31 02:47:00,864 WARNING :: websocket connected
+2022-12-31 02:47:01,031 WARNING :: Binance Websocket connection closed
+2022-12-31 02:47:03,770 INFO :: Binance connection opened
+2022-12-31 02:47:03,771 WARNING :: websocket connected
+2022-12-31 02:49:01,961 INFO :: this is logged in all cases
+2022-12-31 02:49:02,856 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:49:03,615 INFO :: Binance connection opened
+2022-12-31 02:49:03,616 WARNING :: websocket connected
+2022-12-31 02:49:03,786 WARNING :: Binance Websocket connection closed
+2022-12-31 02:49:06,510 INFO :: Binance connection opened
+2022-12-31 02:49:06,511 WARNING :: websocket connected
+2022-12-31 02:49:06,682 WARNING :: Binance Websocket connection closed
+2022-12-31 02:49:09,402 INFO :: Binance connection opened
+2022-12-31 02:49:09,402 WARNING :: websocket connected
+2022-12-31 02:49:09,578 WARNING :: Binance Websocket connection closed
+2022-12-31 02:49:12,290 INFO :: Binance connection opened
+2022-12-31 02:49:12,290 WARNING :: websocket connected
+2022-12-31 02:49:12,458 WARNING :: Binance Websocket connection closed
+2022-12-31 02:50:00,124 INFO :: this is logged in all cases
+2022-12-31 02:50:00,931 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:50:01,700 INFO :: Binance connection opened
+2022-12-31 02:50:01,701 WARNING :: websocket connected
+2022-12-31 02:50:01,870 WARNING :: Binance Websocket connection closed
+2022-12-31 02:50:02,594 INFO :: Binance connection opened
+2022-12-31 02:50:02,595 WARNING :: websocket connected
+2022-12-31 02:50:02,767 WARNING :: Binance Websocket connection closed
+2022-12-31 02:50:03,451 INFO :: Binance connection opened
+2022-12-31 02:50:03,451 WARNING :: websocket connected
+2022-12-31 02:50:03,615 WARNING :: Binance Websocket connection closed
+2022-12-31 02:50:04,351 INFO :: Binance connection opened
+2022-12-31 02:50:04,351 WARNING :: websocket connected
+2022-12-31 02:50:04,526 WARNING :: Binance Websocket connection closed
+2022-12-31 02:50:05,208 INFO :: Binance connection opened
+2022-12-31 02:50:05,208 WARNING :: websocket connected
+2022-12-31 02:50:05,375 WARNING :: Binance Websocket connection closed
+2022-12-31 02:50:06,066 INFO :: Binance connection opened
+2022-12-31 02:50:06,066 WARNING :: websocket connected
+2022-12-31 02:50:06,231 WARNING :: Binance Websocket connection closed
+2022-12-31 02:50:06,923 INFO :: Binance connection opened
+2022-12-31 02:50:06,924 WARNING :: websocket connected
+2022-12-31 02:50:07,088 WARNING :: Binance Websocket connection closed
+2022-12-31 02:50:07,797 INFO :: Binance connection opened
+2022-12-31 02:50:07,797 WARNING :: websocket connected
+2022-12-31 02:50:07,966 WARNING :: Binance Websocket connection closed
+2022-12-31 02:50:08,670 INFO :: Binance connection opened
+2022-12-31 02:50:08,670 WARNING :: websocket connected
+2022-12-31 02:50:49,708 INFO :: this is logged in all cases
+2022-12-31 02:50:50,839 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:50:51,618 INFO :: Binance connection opened
+2022-12-31 02:50:51,619 WARNING :: websocket connected
+2022-12-31 02:50:51,793 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000226F47ACA00>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-31 02:50:51,793 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-31 02:50:54,502 INFO :: Binance connection opened
+2022-12-31 02:50:54,503 WARNING :: websocket connected
+2022-12-31 02:50:54,671 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <Connectors.Binane_Futures.BinanceFuturesClient object at 0x00000226F47ACA00>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-31 02:50:54,671 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-12-31 02:51:21,815 INFO :: this is logged in all cases
+2022-12-31 02:51:22,839 INFO :: Binance Futures Client successfully initialized
+2022-12-31 02:51:23,606 INFO :: Binance connection opened
+2022-12-31 02:51:23,607 WARNING :: websocket connected
+2022-12-31 02:51:23,772 WARNING :: Binance Websocket connection closed
+2022-12-31 02:51:26,487 INFO :: Binance connection opened
+2022-12-31 02:51:26,487 WARNING :: websocket connected
+2022-12-31 02:51:26,653 WARNING :: Binance Websocket connection closed
+2022-12-31 03:02:59,382 INFO :: this is logged in all cases
+2022-12-31 03:03:00,586 INFO :: Binance Futures Client successfully initialized
+2022-12-31 03:03:01,342 INFO :: Binance connection opened
+2022-12-31 03:03:01,343 WARNING :: websocket connected
+2022-12-31 03:03:01,509 WARNING :: Binance Websocket connection closed
+2022-12-31 03:03:04,203 INFO :: Binance connection opened
+2022-12-31 03:03:04,204 WARNING :: websocket connected
+2022-12-31 03:03:04,368 WARNING :: Binance Websocket connection closed
+2022-12-31 03:03:07,087 INFO :: Binance connection opened
+2022-12-31 03:03:07,088 WARNING :: websocket connected
+2022-12-31 03:03:07,261 WARNING :: Binance Websocket connection closed
+2022-12-31 03:03:27,913 INFO :: this is logged in all cases
+2022-12-31 03:03:28,746 INFO :: Binance Futures Client successfully initialized
+2022-12-31 03:03:29,526 INFO :: Binance connection opened
+2022-12-31 03:03:29,526 WARNING :: websocket connected
+2022-12-31 03:03:29,696 WARNING :: Binance Websocket connection closed
+2022-12-31 03:03:32,390 INFO :: Binance connection opened
+2022-12-31 03:03:32,390 WARNING :: websocket connected
+2022-12-31 03:03:32,555 WARNING :: Binance Websocket connection closed
+2022-12-31 03:03:35,284 INFO :: Binance connection opened
+2022-12-31 03:03:35,284 WARNING :: websocket connected
+2022-12-31 03:03:35,457 WARNING :: Binance Websocket connection closed
+2022-12-31 03:03:38,194 INFO :: Binance connection opened
+2022-12-31 03:03:38,195 WARNING :: websocket connected
+2022-12-31 03:03:38,370 WARNING :: Binance Websocket connection closed
+2022-12-31 03:03:41,050 INFO :: Binance connection opened
+2022-12-31 03:03:41,050 WARNING :: websocket connected
+2022-12-31 03:03:41,214 WARNING :: Binance Websocket connection closed
+2022-12-31 03:03:43,918 INFO :: Binance connection opened
+2022-12-31 03:03:43,919 WARNING :: websocket connected
+2022-12-31 03:03:44,081 WARNING :: Binance Websocket connection closed
+2022-12-31 06:25:22,316 INFO :: this is logged in all cases
+2022-12-31 06:27:02,238 INFO :: this is logged in all cases
+2022-12-31 06:28:33,877 INFO :: this is logged in all cases
